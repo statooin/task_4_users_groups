@@ -1,0 +1,10 @@
+-rw-r--r-- 1 student  student    0  file
+-rw-r--r-- 1 student  student    0  file_of_spock
+-rw-r--r-- 1 student  student    0  file_of_tuvok
+-rw-r--r-- 1 student  student    0  tmp
+
+-rw-r--r-- 1 romulan webadmins 0  file
+-rw-r--r-- 1 vulcan  vulcan    0  file_of_spock
+-rw-r--r-- 1 vulcan  vulcan    0  file_of_tuvok
+-rw-r--r-- 1 vulcan  vulcan    0  tmp
+
