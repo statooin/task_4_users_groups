@@ -1,10 +1,33 @@
--rw-r--r-- 1 student  student    0  file
--rw-r--r-- 1 student  student    0  file_of_spock
--rw-r--r-- 1 student  student    0  file_of_tuvok
--rw-r--r-- 1 student  student    0  tmp
+user:		group:
+developers	cardassian
+trainees	ferengi
+engineers	klingon
+webadmins	romulan
+talaxian	talaxian
+vulcan		vulcan
 
--rw-r--r-- 1 romulan webadmins 0  file
--rw-r--r-- 1 vulcan  vulcan    0  file_of_spock
--rw-r--r-- 1 vulcan  vulcan    0  file_of_tuvok
--rw-r--r-- 1 vulcan  vulcan    0  tmp
 
+-rw-r--r-- 1 developers	cardassian   	0  file_0
+-rw-r--r-- 1 talaxian	talaxian    	0  file_1
+-rw-r--r-- 1 webadmins	romulan    	0  file_2
+-rw-r--r-- 1 trainees	ferengi    	0  file_3
+-rw-r--r-- 1 vulcan	vulcan    	0  file_4
+-rw-r--r-- 1 talaxian	talaxian    	0  file_5
+-rw-r--r-- 1 developers	cardassian    	0  file_6
+-rw-r--r-- 1 engineers	klingon    	0  file_7
+-rw-r--r-- 1 vulcan	vulcan    	0  file_8
+-rw-r--r-- 1 webadmins	romulan    	0  file_9
+
+
+
+
+-rw-r--r-- 1 talaxian	klingon   	0  file_0
+-rw-r--r-- 1 developers	vulcan    	0  file_1
+-rw-r--r-- 1 engineers	romulan    	0  file_2
+-rw-r--r-- 1 trainees	ferengi    	0  file_3
+-rw-r--r-- 1 vulcan	vulcan    	0  file_4
+-rw-r--r-- 1 talaxian	cardassian    	0  file_5
+-rw-r--r-- 1 vulcan	cardassian    	0  file_6
+-rw-r--r-- 1 webadmins	klingon    	0  file_7
+-rw-r--r-- 1 developers	vulcan    	0  file_8
+-rw-r--r-- 1 trainees	talaxian    	0  file_9
