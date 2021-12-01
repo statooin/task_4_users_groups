@@ -1,9 +1,9 @@
 user:		group:
-developers	cardassian
-trainees	ferengi
-engineers	klingon
-webadmins	romulan
-talaxian	talaxian
+cardassian  developers
+trainees  ferengi
+klingon engineers
+romulan webadmins
+talaxian  talaxian
 vulcan		vulcan
 
 
