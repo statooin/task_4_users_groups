@@ -1,4 +1,4 @@
-user:		    group:
+user:       group:
 developers  cardassian
 ferengi     trainees
 engineers   klingon
