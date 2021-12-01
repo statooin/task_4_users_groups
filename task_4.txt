@@ -1,10 +1,10 @@
 user:		group:
-cardassian  developers
-trainees  ferengi
-klingon engineers
-romulan webadmins
+developers  cardassian
+ferengi trainees
+engineers klingon
+webadmins romulan
 talaxian  talaxian
-vulcan		vulcan
+vulcan  vulcan
 
 
 -rw-r--r-- 1 developers	cardassian   	0  file_0
