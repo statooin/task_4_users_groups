@@ -1,6 +1,6 @@
 users:		groups:
 cardassian	developers
-ferengi trainees
+ferengi   trainees
 klingon		engineers
 romulan		webadmins
 talaxian	talaxian
